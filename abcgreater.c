@@ -14,6 +14,6 @@ main()
 	}
 	else
 	{
-		printf("c is greater");
+		printf("c is greaterr");
 	}
 }
